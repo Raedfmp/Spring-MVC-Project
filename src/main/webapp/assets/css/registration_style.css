@@ -1,0 +1,28 @@
+@charset "ISO-8859-1";
+
+h2 {
+    color : #5FB404;
+}
+
+h2 {
+  background-color: white;
+}
+
+#form_input{
+	width: 200px;
+	height:28px; 
+	border: thin solid #666;
+	border-radius:8px; 
+}
+
+
+#submit_button{
+	margin-top: 10px;
+	margin-left: 80px; 
+	margin-right: auto;
+	width: 200px;
+	height:40px;
+	background-color: #5FB404;
+	border: thin solid #666; 
+	border-radius:8px;
+}
